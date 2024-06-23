@@ -11,7 +11,7 @@ python -m venv venv
 * Activate the environment
 
 ```bash
-. bedrocl/Scripts/Activate
+. venv/Scripts/Activate
 ```
 
 * Install requirements 
