@@ -3,3 +3,5 @@ pypdf
 streamlit
 faiss-cpu # for vector DB
 boto3
+langchain-community
+python-dotenv
